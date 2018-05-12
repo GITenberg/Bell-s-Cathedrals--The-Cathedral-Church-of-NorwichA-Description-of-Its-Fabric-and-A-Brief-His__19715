@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '8831'
     url: http://www.gutenberg.org/2009/agents/8831
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/19715#Bell-s-Cathedrals--The-Cathedral-Church-of-NorwichA-Description-of-Its-Fabric-and-A-Brief-His_
 gutenberg_bookshelf:
 - Architecture
 - United Kingdom
